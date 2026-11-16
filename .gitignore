@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lokal Python-miljö och tillfälliga filer
+.venv/
+__pycache__/
+.ipynb_checkpoints/
